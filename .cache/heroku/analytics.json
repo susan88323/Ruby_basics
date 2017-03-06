@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "commands": [
+    {
+      "command": "dashboard",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.26",
+      "timestamp": 1488818578,
+      "version": "5.6.29-ac5c0de",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 16148,
+      "valid": true
+    },
+    {
+      "command": "create",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.26",
+      "timestamp": 1488818646,
+      "version": "5.6.29-ac5c0de",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 1077,
+      "valid": true
+    },
+    {
+      "command": "keys:add",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.26",
+      "timestamp": 1488818837,
+      "version": "5.6.29-ac5c0de",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 15514,
+      "valid": true
+    },
+    {
+      "command": "rename",
+      "timestamp": 1488819128,
+      "version": "5.6.29-ac5c0de",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "go",
+      "status": 2,
+      "runtime": 17,
+      "valid": false
+    }
+  ]
+}
